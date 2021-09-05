@@ -1,0 +1,33 @@
+.tab
+{
+    margin-left: 100px;
+    /* padding-left: 100px; */
+
+}
+.mainContainer{
+    border: 5px grey solid;
+    /* border-right: 15px grey solid; */
+    /* border-top: 15px grey solid; */
+    /* border-bottom: 15px grey solid; */
+    margin: 30px;
+}
+.imgClass{
+    border: 5px pink solid;
+    margin-right: 5px;
+    /* border-right: 5px pink solid;
+    border-top: 5px pink solid;
+    border-bottom: 5px pink solid; */
+    
+}
+.allergyContainer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.allergyLabel{
+    order: 2;
+}
+.checkBoxes{
+    order: 1;
+}
+
